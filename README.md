@@ -1,5 +1,7 @@
 # Volatility-Managed Portfolios: Replication and Out-of-Period Evidence
 
+[![tests](https://github.com/Jinay6/volatility-managed-portfolios/actions/workflows/tests.yml/badge.svg)](https://github.com/Jinay6/volatility-managed-portfolios/actions/workflows/tests.yml)
+
 A replication of **Moreira & Muir (2017), "Volatility-Managed Portfolios", *Journal of Finance* 72(4)**, using public
 Fama-French factor data, extended with ten years of post-publication data, non-overlapping subsamples and
 multifactor spanning tests.
