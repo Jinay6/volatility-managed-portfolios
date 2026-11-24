@@ -1,0 +1,16 @@
+name: volmanaged
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas>=2.2,<3
+  - statsmodels
+  - matplotlib
+  - requests
+  - pytest
+  - ruff
+  - mypy
+  - pip
+  - pip:
+      - -e .
